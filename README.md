@@ -50,6 +50,3 @@ La pantalla queda en http://localhost:4200. El backend debe estar corriendo.
 Tests del backend:
 
 python manage.py test
-
-## Pendiente
-Mapa interactivo, paginación, Docker y migración a PostgreSQL/PostGIS.
